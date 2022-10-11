@@ -4,7 +4,7 @@ import { typeDefs } from "./typedefs";
 import { resolvers } from "./resolvers";
 
 
-const graph = new Graph("Beta", {
+const graph = new Graph("Alpha", {
     typeDefs,
     resolvers,
 });
